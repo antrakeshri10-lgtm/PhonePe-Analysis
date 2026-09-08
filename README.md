@@ -35,7 +35,7 @@ The objective of this project was to explore transaction data and build an inter
 
 - Weekdays account for a larger share of transaction activity than weekends.
 - Loans contribute the highest transaction value among the services analysed.
-- Different age segments contribute significantly to overall transaction activity.
+- Gen X and Millenials contribute significantly to overall transaction activity.
 - The dashboard records an overall payment success rate of approximately 96%.
 - Transaction activity varies across months, with noticeable fluctuations throughout the year.
 
