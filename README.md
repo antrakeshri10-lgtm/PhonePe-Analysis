@@ -54,4 +54,4 @@ The objective of this project was to explore transaction data and build an inter
 
 I'm continuing to build and experiment with projects as I develop my skills in **data analytics, finance and business analysis**.
 
-[Snapshot of the dashboard]()
+[Snapshot of the dashboard](https://github.com/Antra-10/PhonePe-Analysis/tree/main/Snapshots)
